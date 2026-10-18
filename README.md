@@ -5,9 +5,11 @@ An interactive Excel dashboard for analyzing sales performance, revenue, and pro
 ## Dashboard Preview & Animation
 
 ![Dashboard Screenshot](https://github.com/Amit-DataDoc23/Excel-Summary-Profitability-Analysis-Dashboard/blob/5aa6d95d24977a98a011cc6b7f1f922b1a6a14ee/Abc_Sales_Dashboard.png)
----
+## Dashboard Animated view
 ![Dashboard Demo](https://github.com/Amit-DataDoc23/Excel-Summary-Profitability-Analysis-Dashboard/blob/cb205c1196bb6d94c803f9b77ccae29efe4dcb67/Dashboard_Walkthough.gif)
 
+## HTML Dashboard Animated view
+![Dashboard Demo](https://github.com/Amit-DataDoc23/Excel-Summary-Profitability-Analysis-Dashboard/blob/ea6b87858a75e57e9ea735f5c04739fce158bd6c/HTML_View.gif)
 ## Key Metrics
 
 | KPI | Value |

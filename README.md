@@ -2,11 +2,11 @@
 
 An interactive Excel dashboard for analyzing sales performance, revenue, and profitability across countries, regions, and sales channels.
 
-## Dashboard Preview
+## Dashboard Preview & Animation
 
 ![Dashboard Screenshot](https://github.com/Amit-DataDoc23/Excel-Summary-Profitability-Analysis-Dashboard/blob/5aa6d95d24977a98a011cc6b7f1f922b1a6a14ee/Abc_Sales_Dashboard.png)
-
-![Dashboard Demo](images/abc-sales-dashboard.gif)
+---
+![Dashboard Demo](https://github.com/Amit-DataDoc23/Excel-Summary-Profitability-Analysis-Dashboard/blob/cb205c1196bb6d94c803f9b77ccae29efe4dcb67/Dashboard_Walkthough.gif)
 
 ## Key Metrics
 
